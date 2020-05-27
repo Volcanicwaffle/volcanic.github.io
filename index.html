@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Some Radishes</title>
+        <style>
+            
+            #white-icicles {
+                color: black;
+                font-family: "Georgia", "Palatino", serif;
+                margin: 40px;
+                
+            }
+            
+            body {
+                background-color: rgb(147, 173, 219);
+            }
+            
+            
+            .radish1 {
+                
+            }
+            #demwhitebois {
+                
+                width: 100%;
+            }
+            #PREUVE {
+                margin-left:75%;
+            }
+        </style>
+    </head>
+    <body>
+
+<div id = "white-icicles">
+    <h2>Les glaçon blancs</h2>
+    <p id = "demwhitebois"><img id = "radish1" src = "https://specialtyproduce.com/sppics/416.png" alt = "(Imagine qu'ils sont des carrots, mais blanc.)">
+        Normallement les radis grandis jusqu'à six pouces en longeur. Dans le sol, il grandis come les carrots, ou il grandis vers le direction de la terre comme un pôle. Les radis blancs font partie du famille brassicaceae comme les chou. Ce radis est aussi celebré pour leur resistance de devenir concis comme plusieurs autres radis. Ils ont été étudier dans les années 1600 pour leur propriétés medical. <a href="https://specialtyproduce.com/produce/Icicle_Radish_416.php">Info</a>
+    </p>
+</div>
+
+
+<p id = "PREUVE">
+    Site web crée par:
+    <br id = "br1"> Gabriel Shaw
+</p>
+    </body>
+</html>
